@@ -1,5 +1,5 @@
 {
-  "is_active": true,
+  "is_active": false,
   "maintenance_message": "Server đang bảo trì, vui lòng quay lại sau.",
   "latest_version": "1.0.2"
 }
